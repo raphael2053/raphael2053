@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi, I'm Raphael👋
 
-**raphael2053/raphael2053** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software engineer who sepecialized in backend 
 
 Here are some ideas to get you started:
 
